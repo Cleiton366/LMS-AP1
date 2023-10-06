@@ -131,10 +131,11 @@ main {
     }
 
     .page-content {
-        background-color: rgba(0, 0, 0, 0.3);
-
         width: 80vw;
         height: 1200px;
+        
+        background-color: rgb(30, 43, 49);
+        color: white;
 
         float: right;
 
